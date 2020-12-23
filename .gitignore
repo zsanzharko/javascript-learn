@@ -1,9 +1,6 @@
 # Default ignored files
 /shelf/
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/React and javascript course.iml
-/.idea/vcs.xml
+/.idea/
 # Datasource local storage ignored files
 /../../../../../../../:\Users\Legion\IdeaProjects\Udemy Course\React and javascript course\.idea/dataSources/
 /dataSources.local.xml
